@@ -1,3 +1,7 @@
 h1{
     text-align: center;
 }
+
+#addTrainButton{
+    margin-bottom: 25px;
+}
