@@ -3,7 +3,13 @@ h1{
 }
 
 .card-header{
-   background-color: blue;
+   background-color: #5DADE2;
    color: white;
    font-size: 18pt;
+}
+
+.jumbotron{
+    color: white;
+    background-color:  #45B39D;
+    margin-top: 20px;
 }

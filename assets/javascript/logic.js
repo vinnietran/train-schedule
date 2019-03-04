@@ -63,7 +63,6 @@ database.ref().on("child_added", function (childSnapshot) {
     console.log(destination);
     console.log(time);
     console.log(frequency);
-
     console.log(childSnapshot.val());
 
 
@@ -91,5 +90,4 @@ database.ref().on("child_added", function (childSnapshot) {
 
 
 
-//need to figure out time calculations
 
