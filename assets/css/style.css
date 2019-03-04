@@ -2,6 +2,8 @@ h1{
     text-align: center;
 }
 
-#addTrainButton{
-    margin-bottom: 25px;
+.card-header{
+   background-color: blue;
+   color: white;
+   font-size: 18pt;
 }
